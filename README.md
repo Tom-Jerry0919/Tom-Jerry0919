@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-I am a recent Bachelor of Engineering graduate specializing in Computer Science and Engineering. I am currently focused on developing my skills in the MERN stack (MongoDB, Express.js, React.js, Node.js) and have hands-on experience with Bootstrap for responsive web design. My recent projects include "Nebula," an e-commerce application and task management dashboard, showcasing my abilities in full-stack development and UI/UX design.
-
-Feel free to connect with me on LinkedIn.
 ## 🚀 Key Skills
 
 ### 🌐 Frontend Development
@@ -24,8 +21,9 @@ Feel free to connect with me on LinkedIn.
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 
 ### 💻 Stack
 ![MERN Stack](https://img.shields.io/badge/-MERN-3C3C3C?style=flat&logo=react&logoColor=white)
-
