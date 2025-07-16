@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-## 🚀 Key Skills
 ## 🚀 Key Skills
 
 ### 🌐 Frontend Development
