@@ -1,4 +1,18 @@
-## Hi there 👋
+## Hi there 👋 I'm Vasanth Ashok
+
+🚀 Aspiring Full Stack Developer | MERN Stack | Firebase  
+💡 Passionate about building scalable, user-friendly web applications  
+
+---
+
+## 🧑‍💻 About Me
+- 🎓 Computer Science student & self-taught developer  
+- 🌱 Currently learning **MERN Stack & Cloud Technologies**  
+- 🔭 Working on real-world projects like **Expense Tracker & Dashboards**  
+- 🎯 Goal: Become a skilled **Full Stack / MERN Developer**
+
+---
+
 ## 🚀 Key Skills
 
 ### 🌐 Frontend Development
@@ -9,16 +23,21 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css)
 
+---
+
 ### 🖥 Backend Development
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
+---
 
-### ☁️ Database & Cloud Platforms
+### 🗄 Database & Cloud
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud)
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat&logo=microsoft-azure)
+
+---
 
 ### ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
@@ -28,5 +47,25 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render)
 
-### 💻 Stack
-![MERN Stack](https://img.shields.io/badge/-MERN-3C3C3C?style=flat&logo=react&logoColor=white)
+---
+
+## 💻 Tech Stack
+**MERN Stack**  
+MongoDB • Express.js • React • Node.js  
++ Firebase Authentication & Firestore
+
+---
+
+## 📌 Projects
+- 🔹 **Expense Calculator** – React + Firebase  
+- 🔹 **Task Management Dashboard** – HTML, CSS, JS  
+- 🔹 **Authentication System** – Firebase Auth  
+
+*(More projects coming soon 🚀)*
+
+---
+
+
+---
+
+⭐ If you like my work, consider starring my repositories!
