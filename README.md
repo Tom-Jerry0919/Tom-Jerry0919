@@ -59,7 +59,8 @@ MongoDB • Express.js • React • Node.js
 ## 📌 Projects
 - 🔹 **Expense Calculator** – React + Firebase  
 - 🔹 **Task Management Dashboard** – HTML, CSS, JS  
-- 🔹 **Authentication System** – Firebase Auth  
+- 🔹 **Authentication System** – Firebase Auth
+- 🔹 **College Managment System**-MERN
 
 *(More projects coming soon 🚀)*
 
